@@ -16,3 +16,7 @@ Template: twentytwentyfive
 .bazinga {
   display: contents;
 }
+
+.yet-another-class {
+  display: none;
+}
